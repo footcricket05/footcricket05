@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Shaurya Srinet
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width-30px/>
 
 - 👀 I’m interested in IoT,AI/ML...!
 - 🌱 I’m currently learning Data Science...
