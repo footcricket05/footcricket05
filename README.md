@@ -1,16 +1,27 @@
-### Hi there 👋
+ # 👋 Hi, I’m Shaurya Srinet
+<br>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92947939/155017194-9ea7bfbd-eb1f-4c7d-867b-ea225b443488.gif?raw=true" />
 
-<!--
-**footcricket05/footcricket05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in IoT,AI/ML...!
+- 🌱 I’m currently learning Data Science...
+- 💞️ I’m looking to collaborate on IoT, AI/ML projects...
+- ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with.
+- 📫 How to reach me 
 
-Here are some ideas to get you started:
+     Dont! (jk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  Looking for a team or an organization where I can learn and develop my skills...!
+
+  I Am Just a High Functionin SocioPath...
+
+  
+  *Respect the privacy of others.
+  
+  *Think before you type.
+  
+  *With great power comes great responsibility.
+
+
+  Quote: Where's your will to be weird?
+  
