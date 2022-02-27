@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on IoT, AI/ML projects...
 - ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with.
 - 📫 How to reach me - Dont! (jk)
+     
      email - shauryasrinet@gmail.com
      contact - 9999847323
 
