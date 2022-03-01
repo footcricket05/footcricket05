@@ -1,5 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="350px/a>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="30px">I'm Shaurya</h1>
+<img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="350px">
+<h1 align="center">Hi, I'm Shaurya</h1>
 <h3 align="center">I'm a beginner programmer</h3>
 
 
