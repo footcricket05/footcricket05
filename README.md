@@ -73,4 +73,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=footcricket05">
 </a>
-<a href=""><img src="https://img.shields.io/github/followers/arshbhatia8?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/footcricket05?tab=followers"><img src="https://img.shields.io/github/followers/footcricket05?label=Followers&style=social" alt="GitHub Badge"></a>
