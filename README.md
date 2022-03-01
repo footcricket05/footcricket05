@@ -14,5 +14,5 @@
 
   Quote: Where's your will to be weird?
   
-// README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=footcricket05&theme=highcontrast&show_icons=true&count_private=true)
+
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=footcricket05&theme=highcontrast&show_icons=true&count_private=true)
