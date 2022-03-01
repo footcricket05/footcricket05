@@ -12,7 +12,7 @@
 - ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with.
 - 📫 How to reach me - **shauryasrinet@gmail.com**
 - 👨‍💻 My social media handle - **https://www.linkedin.com/in/shaurya-srinet/**
-- ⚡ Fun fact - **I'm a weeb**
+- ⚡ Fun fact - I'm a weeb
 
   Looking for a team or an organization where I can learn and develop my skills...! 
 
