@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif"  width="350px"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif"  width="400px"></h2>
 <h1 align="center">Hi, I'm Shaurya</h1>
 <h3 align="center">I'm a beginner programmer</h3>
 
