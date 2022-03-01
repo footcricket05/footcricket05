@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Science...
 - 💞️ I’m looking to collaborate on IoT, AI/ML projects...
 - ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with.
-- 📫 How to reach me - shauryasrinet@gmail.com / sn0273@srmist.edu.in
+- 📫 How to reach me - shauryasrinet@gmail.com 
 
   Looking for a team or an organization where I can learn and develop my skills...! 
 
