@@ -9,7 +9,6 @@
 - 👀 I’m interested in IoT,AI/ML...!
 - 🌱 I’m currently learning Data Science...
 - 💞️ I’m looking to collaborate on IoT, AI/ML projects...
-- ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with.
 - 📫 How to reach me - **shauryasrinet@gmail.com**
 - ⚡ Fun fact - I'm a weeb
 
