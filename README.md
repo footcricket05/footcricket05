@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif"  width="400px"></h2>
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shaurya</h1>
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> I'm Shaurya</h1>
 <h3 align="center">I'm a beginner programmer</h3>
 
 
