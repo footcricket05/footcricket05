@@ -24,7 +24,7 @@
 
 <p align="left"> 
     <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/" target"_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/mysql/" target"_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/ai/ai_machine_learning.asp" target"_blank"> <img src="https://www.kindpng.com/picc/m/186-1862572_noun-machine-learning-1927723-ai-logo-png-transparent.png" alt="machine-learning" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/ai/ai_machine_learning.asp" target"_blank"> <img src="https://dvlsystems.com/wp-content/uploads/2020/08/machine_learning-1000x550.jpg" alt="machine-learning" width="40" height="40"/> </a> 
 </p>
 
 <br/>
