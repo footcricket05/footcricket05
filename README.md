@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on IoT, AI/ML projects...
 - 📫 How to reach me - **shauryasrinet@gmail.com**
 - ⚡ Fun fact - I'm a weeb
-- Quote: Where's your will to be weird?
+- Quote - Where's your will to be weird?
 
  
 Looking for a team or an organization where I can learn and develop my skills...! 
