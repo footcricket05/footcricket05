@@ -41,8 +41,6 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-<a href="https://github.com/footcricket05/github-readme-activity-graph"><img alt="Shaurya Srinet's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=footcricket05)](https://github.com/footcricket05/github-readme-activity-graph" /></a>
-<br/>
 <br/>
 
 
