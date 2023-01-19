@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif"  width="400px"></h2>
 <h1 align="center">Hi, I'm Shaurya</h1>
-<h3 align="center">I'm an intermediate programmer</h3>
+<h3 align="center">I'm an Intermediate Programmer</h3>
 
 
 
