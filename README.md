@@ -1,14 +1,14 @@
 <h2 align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif"  width="400px"></h2>
 <h1 align="center">Hi, I'm Shaurya</h1>
-<h3 align="center">I'm a beginner programmer</h3>
+<h3 align="center">I'm an intermediate programmer</h3>
 
 
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in IoT, Embedded Systems, AI/ML...!
+- 👀 I’m interested in IoT, Embedded Systems, ML...!
 - 🌱 I’m currently learning IoT...
-- 💞️ I’m looking to collaborate on IoT, AI/ML projects...
+- 💞️ I’m looking to collaborate on IoT, ML projects...
 - 📫 How to reach me - **shauryasrinet@gmail.com**
 - ⚡ Fun fact - I'm a weeb
 - ❔ Quote - Where's your will to be weird?
