@@ -1,9 +1,3 @@
-<h2 align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif"  width="400px"></h2>
-<h1 align="center">Hi, I'm Shaurya</h1>
-<h3 align="center">I'm an Intermediate Programmer</h3>
-
-
-
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in IoT, Embedded Systems, ML...!
@@ -36,10 +30,11 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 
 ## 📊 My Github Stats
 
-<br/>
-<a href="https://github.com/footcricket05/github-readme-stats"><img alt="Shaurya Srinet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=footcricket05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Shaurya Srinet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=footcricket05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
+    <a href="https://github.com/footcricket05/github-readme-stats"><img alt="Shaurya Srinet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=footcricket05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/footcricket05/github-readme-stats"><img alt="Shaurya Srinet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=footcricket05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
