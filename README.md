@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in IoT, Embedded Systems, ML...!
+- 👀 I’m interested in IoT, ML, Networking...!
 - 🌱 I’m currently learning IoT...
 - 💞️ I’m looking to collaborate on IoT, ML projects...
 - 📫 How to reach me - **shauryasrinet@gmail.com**
