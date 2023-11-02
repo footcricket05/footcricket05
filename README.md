@@ -61,16 +61,15 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-
+<br/>
 
 
 
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/shaurya-srinet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_shaurya_srinet_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</a>
+  <a href="https://www.linkedin.com/in/shaurya-srinet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/_shaurya_srinet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 
@@ -79,7 +78,9 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=footcricket05">
 </a>
-<a href="https://github.com/footcricket05?tab=followers"><img src="https://img.shields.io/github/followers/footcricket05?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/footcricket05?tab=followers">
+    <img src="https://img.shields.io/github/followers/footcricket05?label=Followers&style=social" alt="GitHub Badge">
+</a>
 
 
 
