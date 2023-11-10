@@ -20,14 +20,13 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <p align="left">
 
 <p>
-  <img alt="R" src="https://img.icons8.com/color/48/000000/r-project.png" style="margin-right: 5px" />
-  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" style="margin-right: 5px" />
-  <img alt="Bash" src="https://img.icons8.com/plasticine/50/000000/bash.png" style="margin-right: 5px" />
-  <img alt="SQLite" src="https://img.icons8.com/color/48/000000/sql.png" style="margin-right: 5px" />
-  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" style="margin-right: 5px" />
-  <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
 
 
 <p align="center">
