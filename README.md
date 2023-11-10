@@ -17,46 +17,33 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 ## 🚀 Languages and Tools:
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&logoWidth=30" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white&logoWidth=30" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&logoWidth=30" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white&logoWidth=30" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&logoWidth=30" />
-
-  <!-- Frontend Technologies -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoWidth=40" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&logoWidth=40" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white&logoWidth=40" />
-
-  <!-- Backend Technologies -->
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&logoWidth=40" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&logoWidth=40" />
-
-  <!-- Database Technologies -->
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&logoWidth=40" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&logoWidth=40" />
-
-  <!-- Data Science and Machine Learning -->
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&logoWidth=40" />
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white&logoWidth=40" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit-DA4453?style=flat-square&logo=scikit-learn&logoColor=white&logoWidth=40" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white&logoWidth=40" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EAE20?style=flat-square&logo=seaborn&logoColor=white&logoWidth=40" />
-
-  <!-- IDEs and Tools -->
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&logoWidth=40" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white&logoWidth=40" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&logoWidth=40" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoWidth=40" />
-
-  <!-- Cloud and DevOps -->
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&logoWidth=40" />
-
-  <!-- Business Intelligence and Visualization -->
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&logoWidth=40" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white&logoWidth=40" />
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter&logoColor=orange" height=20>
+  <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=Numpy&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/HTML5-E95420?style=plastic&logo=html5&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/CSS3-3776AB?style=plastic&logo=css3&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height=20>
+  <img src="https://img.shields.io/badge/CANVA-%2300C4CC?style=plastic&logo=Canva&logoColor=black" height=20>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Github-%23121011?style=plastic&logo=github&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Git-%23121011?style=plastic&logo=Git&logoColor=#F05032" height=20>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
+  <img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
+  <img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" height="25"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height=20>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&color=000000" height=20>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&color=111111" height=20>
+  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20>
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=plastic&logo=Streamlit&logoColor=#276DC3" height=20>
 </p>
 
 
