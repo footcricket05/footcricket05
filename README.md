@@ -58,8 +58,6 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
 
-</p>
-
 
 <p align="center">
   <a href="https://github.com/footcricket05/github-readme-streak-stats">
