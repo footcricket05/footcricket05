@@ -36,14 +36,18 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" height="25"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height=20>
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&color=000000" height=20>
   <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&color=111111" height=20>
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20>
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=plastic&logo=Streamlit&logoColor=#276DC3" height=20>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" height=20>
 </p>
 
 
