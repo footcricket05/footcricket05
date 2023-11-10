@@ -17,10 +17,9 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 ## 🚀 Languages and Tools:
 
 <p align="center">
-<p>
-   <!-- Programming Languages -->
+  <!-- Programming Languages -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -58,6 +57,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
 
+</p>
 
 <p align="center">
   <a href="https://github.com/footcricket05/github-readme-streak-stats">
