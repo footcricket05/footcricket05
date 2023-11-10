@@ -48,10 +48,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" height=20>
- <img src="https://img.shields.io/badge/IoT-008CFF?style=plastic&logo=internetofthings&logoColor=white" height=20>
-
 </p>
-
 
 <p align="center">
   <a href="https://github.com/footcricket05/github-readme-streak-stats">
