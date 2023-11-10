@@ -20,14 +20,13 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <p align="left">
 
 <p>
-  <img alt="R" src="https://img.icons8.com/color/48/000000/r-project.png" />
-  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="Bash" src="https://img.icons8.com/plasticine/50/000000/bash.png" />
-  <img alt="SQLite" src="https://img.icons8.com/color/48/000000/sql.png" />
-  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
+  <img alt="R" src="https://img.icons8.com/color/48/000000/r-project.png" style="margin-right: 5px" />
+  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" style="margin-right: 5px" />
+  <img alt="Bash" src="https://img.icons8.com/plasticine/50/000000/bash.png" style="margin-right: 5px" />
+  <img alt="SQLite" src="https://img.icons8.com/color/48/000000/sql.png" style="margin-right: 5px" />
+  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" style="margin-right: 5px" />
   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png" />
 </p>
-
 
 
 
