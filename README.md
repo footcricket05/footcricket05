@@ -42,8 +42,8 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit-DA4453?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EAE20?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EAE20?style=flat-square&logo=seaborn&logoColor=white" />
 
   <!-- IDEs and Tools -->
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
