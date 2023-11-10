@@ -20,6 +20,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter&logoColor=orange" height=20>
   <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=Numpy&logoColor=white" height=20>
