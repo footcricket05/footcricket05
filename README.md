@@ -58,7 +58,6 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 
 
 
-
 ## 📊 My Github Stats
 
 <br/>
@@ -76,7 +75,9 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 
 
 ## 🏆 GitHub Trophies
+<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=footcricket05&margin-w=8&margin-h=4&theme=onedark)
+</p>
 
 
 
