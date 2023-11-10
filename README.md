@@ -1,3 +1,6 @@
+![ss](https://github.com/footcricket05/footcricket05/assets/93007427/ec0f57ed-60f4-4000-9160-b9e6015325fe)
+
+
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in IoT, ML, Networking...!
