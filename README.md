@@ -16,9 +16,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
  
 ## 🚀 Languages and Tools:
 
-<p align="left">
-<p align="left">
-
+<p align="center">
 <p>
    <!-- Programming Languages -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -61,7 +59,6 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
 
 </p>
-
 
 
 <p align="center">
