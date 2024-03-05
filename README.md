@@ -57,7 +57,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=plastic&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white" height=20>
 </p>
 
 <p align="center">
