@@ -60,6 +60,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/IFTTT-000000?style=plastic&logo=ifttt&logoColor=white" height=20>
 </p>
 
 <p align="center">
