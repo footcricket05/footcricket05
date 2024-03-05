@@ -38,6 +38,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-FF0000?style=plastic&logo=cisco&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
+  <img src="https://img.shields.io/badge/Multisim%20Live-007ACC?style=plastic&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
