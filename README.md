@@ -54,6 +54,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/DevOps-007ACC?style=plastic&logo=devops&logoColor=white" height=20>
 </p>
 
 <p align="center">
