@@ -45,7 +45,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&color=111111" height=20>
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" height=20>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white" height=20>
