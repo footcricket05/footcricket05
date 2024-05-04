@@ -1,5 +1,6 @@
-![ss](https://github.com/footcricket05/footcricket05/assets/93007427/ec0f57ed-60f4-4000-9160-b9e6015325fe)
+![LinkedIn Banner](https://github.com/footcricket05/footcricket05/assets/93007427/506208ea-bff3-437d-8a1f-4a80396e8f60)
 
+---
 
 ## 🙋‍♂️ About Me
 
