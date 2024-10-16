@@ -10,7 +10,6 @@
 - 📫 How to reach me - **shauryasrinet@gmail.com**
 - ⚡ Fun fact - I'm a weeb
 - ❔ Quote - Where's your will to be weird?
-- ![Hireable](https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square)
 
  
 Looking for a team or an organization where I can learn and develop my skills...! 
@@ -114,6 +113,10 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <a href="https://github.com/footcricket05?tab=followers">
     <img src="https://img.shields.io/github/followers/footcricket05?label=Followers&style=social" alt="GitHub Badge">
 </a>
+<a href="https://github.com/footcricket05">
+    <img src="https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square" alt="Hireable Badge">
+</a>
+
 
 
 
