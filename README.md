@@ -110,13 +110,11 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=footcricket05">
 </a>
-<a href="https://github.com/footcricket05?tab=followers">
-    <img src="https://img.shields.io/github/followers/footcricket05?label=Followers&style=social" alt="GitHub Badge">
-</a>
 <a href="https://github.com/footcricket05">
     <img src="https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square" alt="Hireable Badge">
 </a>
-
-
+<a href="https://github.com/footcricket05?tab=followers">
+    <img src="https://img.shields.io/github/followers/footcricket05?label=Followers&style=social" alt="GitHub Badge">
+</a>
 
 
