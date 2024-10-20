@@ -11,8 +11,6 @@
 - ⚡ Fun fact - I'm a weeb
 - ❔ Quote - Where's your will to be weird?
 
- 
-Looking for a team or an organization where I can learn and develop my skills...! 
 
 Aiming to leverage proven leadership, problem-solving, and technical skills to successfully be placed at your company. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals.
 
