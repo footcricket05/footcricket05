@@ -65,14 +65,6 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
 </p>
 
-<p align="center">
-  <a href="https://github.com/footcricket05">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-         alt="Shaurya Srinet's streak" 
-         src="https://github-readme-streak-stats.herokuapp.com?user=footcricket05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
 ## 📊 My Github Stats
 <div align="center">
 <br/>
