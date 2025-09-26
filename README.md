@@ -4,8 +4,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in IoT, AI/ML, Networking, Cloud & DevOps...!
-- 🌱 I’m currently learning Gen AI and Cybersecurity...
+- 👀 I’m interested in IoT, AI/ML, Networks, Cloud & DevOps...!
+- 🌱 I’m currently learning Agentic AI and Cybersecurity...
 - 🤝 I’m looking to collaborate on IoT, AI/ML, Cloud & DevOps projects...
 - 📫 How to reach me - **shauryasrinet@gmail.com**
 - ⚡ Fun fact - I'm a weeb
