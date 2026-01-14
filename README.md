@@ -60,28 +60,6 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 </p>
 
 
-## 📊 My Github Stats
-<div align="center">
-<br/>
-<a href="https://github.com/footcricket05/github-readme-stats">
-  <img alt="Shaurya Srinet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=footcricket05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/footcricket05/github-readme-stats">
-  <img alt="Shaurya Srinet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=footcricket05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-</div>
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=footcricket05&margin-w=8&margin-h=4&theme=onedark" alt="GitHub Trophies" />
-</div>
-
-
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/shaurya-srinet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
