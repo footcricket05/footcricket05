@@ -5,13 +5,11 @@
 - 🤝 I’m looking to collaborate on IoT, AI/ML, Cloud & DevOps projects...
 - 📫 How to reach me - **shauryasrinet@gmail.com**
 - ⚡ Fun fact - I'm a weeb
-- ❔ Quote - Where's your will to be weird?
 
 
 Aiming to leverage proven leadership, problem-solving, and technical skills to successfully be placed at your company. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals.
 
- 
- 
+  
 ## 🚀 Languages and Tools:
 
 <p align="center">
@@ -94,7 +92,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/footcricket05/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=footcricket05">
 </a>
 <a href="https://github.com/footcricket05">
