@@ -9,7 +9,7 @@
 
 Aiming to leverage proven leadership, problem-solving, and technical skills to successfully be placed at your company. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals.
 
-  
+
 ## 🚀 Languages and Tools:
 
 <p align="center">
@@ -59,6 +59,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
 </p>
 
+
 ## 📊 My Github Stats
 <div align="center">
 <br/>
@@ -75,12 +76,10 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 </div>
 
 
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=footcricket05&margin-w=8&margin-h=4&theme=onedark" alt="GitHub Trophies" />
 </div>
-
 
 
 ## Connect with me:
@@ -88,7 +87,6 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <a href="https://www.linkedin.com/in/shaurya-srinet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com/_shaurya_srinet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-
 
 
 ## ❤ Views and Followers
@@ -101,5 +99,3 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <a href="https://github.com/footcricket05?tab=followers">
     <img src="https://img.shields.io/github/followers/footcricket05?label=Followers&style=social" alt="GitHub Badge">
 </a>
-
-
