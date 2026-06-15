@@ -2,8 +2,8 @@
 
 - 🛡️ **Security Engineer 1 @ Deloitte** specializing in Identity Governance & Administration (IGA) and Cloud Security.
 - 🥇 **Dual-Certified Identity Expert:** Holding active credentials as a **SailPoint ISC Expert** and **Okta Certified Professional**.
-- 👀 Deeply interested in **Enterprise Identity Management (IAM/IGA), DevSecOps, Secure Cloud Infrastructure, and Agentic AI Architecture**[cite: 2, 3].
-- 🚀 Cultivating production-ready, secure automation pipelines bridging identity layers with advanced AI integrations[cite: 1, 3].
+- 👀 Deeply interested in **Enterprise Identity Management (IAM/IGA), DevSecOps, Secure Cloud Infrastructure, and Agentic AI Architecture**.
+- 🚀 Cultivating production-ready, secure automation pipelines bridging identity layers with advanced AI integrations.
 - 📫 Reach out via Email: **shauryasrinet@gmail.com**
 - ⚡ Fun fact - I'm a weeb.
 
